@@ -1,6 +1,6 @@
 # project-optim
 
-Homework for the course [*Optimisation theory with applications*](https://www.eurecom.fr/~spyropou/optim2019_files/lectures.htm)
+Homework for the course [*Optimization theory with applications*](https://www.eurecom.fr/~spyropou/optim2019_files/lectures.htm)
 
 :date: Date: Dec 2019
 
